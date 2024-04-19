@@ -1,0 +1,1 @@
+Implements a menu-based program featuring data visualization on COVID-19 datasets, various regression techniques applied to cancer data and refitting methods on mental health datasets, providing a comprehensive exploration of statistical analysis and predictive modelling within the healthcare domain.
