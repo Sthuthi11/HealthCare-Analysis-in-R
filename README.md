@@ -1,1 +1,5 @@
-Implements a menu-based program featuring data visualization on COVID-19 datasets, various regression techniques applied to cancer data and refitting methods on mental health datasets, providing statistical analysis and predictive modelling within the healthcare domain.
+Implements a menu-based program in R that features:
+- Data visualization techniques applied to COVID-19 datasets
+- Various regression methods for cancer data analysis
+- Refitting approaches for mental health datasets
+The program provides statistical analysis and predictive modeling within the healthcare domain.
